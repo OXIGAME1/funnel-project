@@ -16,15 +16,15 @@
 
 | Поле | Значение |
 |---|---|
-| Адрес репозитория сайта |  |
-| Публичный адрес сайта |  |
-| Статус публикации | READY / ERROR |
-| Analytics Account |  |
-| Property |  |
-| Stream name |  |
-| Website URL в потоке |  |
-| Measurement ID (`G-…`) |  |
-| Страницы с тегом |  |
+| Адрес репозитория сайта | https://github.com/OXIGAME1/ga4-analytics-lab-ism |
+| Публичный адрес сайта | https://ga4-analytics-lab-ism.vercel.app |
+| Статус публикации | READY |
+| Analytics Account | GA4 Lab — Вобленко |
+| Property | GA4 Lab — ga4-analytics-lab-ism |
+| Stream name | GA4 Lab — Vercel |
+| Website URL в потоке | https://ga4-analytics-lab-ism.vercel.app |
+| Measurement ID (`G-…`) | `G-D2VPW8ETE8` |
+| Страницы с тегом | `index.html`, `about.html`, `contacts.html` (по одному разу в `<head>`) |
 
 Тег ставится на каждую страницу по одному разу: две копии дают двойные
 события.
@@ -33,22 +33,24 @@
 
 **Результат проверки из инструкции тега:**
 
->
+> Поток → «Просмотр инструкций тега» → «Установка вручную» → «Протестировать»
+> для https://ga4-analytics-lab-ism.vercel.app: рядом с адресом появилась
+> зелёная галочка — тег Google на сайте найден.
 
-Скриншот: вставьте строку `![Сообщение об обнаружении тега Google](screens/01-tag-detected.png)`
+![Сообщение об обнаружении тега Google](screens/01-tag-detected.png)
 
-Скриншот: вставьте строку `![Код тега на странице, виден Measurement ID](screens/02-tag-in-code.png)`
+![Код тега на странице, виден Measurement ID](screens/02-tag-in-code.png)
 
 ## 3. События доходят до аналитики
 
 | Поле | Значение |
 |---|---|
-| Дата и время проверки |  |
-| Какие страницы открывали |  |
-| Какие события появились в Realtime |  |
-| Число активных пользователей в момент проверки |  |
+| Дата и время проверки | 05.11.2026, около 22:50 (МСК) |
+| Какие страницы открывали | Home, About, Contacts |
+| Какие события появились в Realtime | `page_view` (3), `read_30s` (3), `form_error` (2), `cta_click`, `first_visit`, `generate_lead` |
+| Число активных пользователей в момент проверки | 1 |
 
-Скриншот: вставьте строку `![Realtime с событием page_view](screens/03-realtime.png)`
+![Realtime с событием page_view](screens/03-realtime.png)
 
 ## 4. Источник перехода определился
 
@@ -58,7 +60,7 @@
 **Ссылка целиком:**
 
 ```
-
+https://ga4-analytics-lab-ism.vercel.app/?utm_source=telegram&utm_medium=social&utm_campaign=ga4_lab
 ```
 
 | Поле | Значение |
