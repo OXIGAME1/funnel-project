@@ -228,7 +228,7 @@
 
 | Поле | Значение |
 |---|---|
-| Analytics Account | GA4 Lab — Вобленко |
+| Analytics Account | GA4 Lab — NEZEER (до 06.11.2026 — «GA4 Lab — Вобленко», это имя видно на ранних скриншотах) |
 | Property | GA4 Lab — ga4-analytics-lab-ism |
 | Reporting time zone | (GMT+03:00) Москва, Россия |
 | Currency | российский рубль (₽) |

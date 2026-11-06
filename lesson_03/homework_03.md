@@ -19,7 +19,7 @@
 | Адрес репозитория сайта | https://github.com/OXIGAME1/ga4-analytics-lab-ism |
 | Публичный адрес сайта | https://ga4-analytics-lab-ism.vercel.app |
 | Статус публикации | READY |
-| Analytics Account | GA4 Lab — Вобленко |
+| Analytics Account | GA4 Lab — NEZEER (до 06.11.2026 — «GA4 Lab — Вобленко», это имя видно на ранних скриншотах) |
 | Property | GA4 Lab — ga4-analytics-lab-ism |
 | Stream name | GA4 Lab — Vercel |
 | Website URL в потоке | https://ga4-analytics-lab-ism.vercel.app |
