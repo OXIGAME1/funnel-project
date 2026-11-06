@@ -22,7 +22,7 @@
 текст в числа, даты и формулы». Данные на `source` остались такими,
 как в файле, и я их не редактировал.
 
-Ссылка на таблицу (доступ открыт только преподавателю): https://docs.google.com/spreadsheets/d/10UReTwrfi9-m65vo6N1wHUzFCHnszL4nCAG6c4viR74/edit
+Ссылка на таблицу (доступ открыт только преподавателю): https://docs.google.com/spreadsheets/d/10UReTwrfi9-m65vo6N1wHUzFCHnszL4nCAG6c4viR74/edit?usp=sharing
 
 ![Окно «Импорт файла» с настройками](screens/01-import.png)
 
