@@ -8,7 +8,7 @@
 | Группа | 11/1-РПО-26/1 |
 | Номер работы | 5 |
 | Тема работы | Форма сайта → Apps Script → Google Таблица заявок |
-| Дата сдачи |  |
+| Дата сдачи | 06.11.2026 |
 
 Текст ниже уже написан. Замените `___` своими данными и вставьте кадры
 вместо строк «Скриншот: …».
@@ -24,7 +24,7 @@
 `in_progress`, `done`, `rejected`. Два правила подсвечивают неполную строку
 и повторный `request_id`.
 
-Ссылка на таблицу (доступ открыт только преподавателю): https://docs.google.com/spreadsheets/d/1NJDxX8OesliP3MlSE7UItsRum8hh9D23JBjcg11WG1s/edit
+Ссылка на таблицу (доступ открыт только преподавателю): https://docs.google.com/spreadsheets/d/1NJDxX8OesliP3MlSE7UItsRum8hh9D23JBjcg11WG1s/edit?usp=sharing
 
 ![Лист leads: заголовки, закреплённая строка, список статусов](screens/01-sheet.png)
 
